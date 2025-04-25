@@ -10,3 +10,10 @@ I've included the first two articles in the json with the example output.
 
 
 re-read through all the posts in all_blog_posts.json, compare each together to make sure there is a consistent story.
+
+
+open season_one_all_blog_posts.json
+
+loop through all posts,
+
+pass
