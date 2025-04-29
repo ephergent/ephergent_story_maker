@@ -53,6 +53,3 @@ Write one article for each point below, following the structure and details prov
 *   Integrate **universe elements** (like CLX, dimensional physics, faction details) naturally into the narrative flow.
 
 ## Output Format
-
-(Specify the desired output format if different from standard Markdown, e.g., JSON, specific template structure, etc.)
-```
