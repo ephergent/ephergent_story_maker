@@ -66,7 +66,7 @@ This calendar outlines the first two months (8 weeks) of Season 1, following the
 **STORYLINE:** Cogsworth Sabotage & Syndicate Tech Link
 **SYNOPSIS:** Pixel and Luminara investigate temporal paradoxes spiraling out of control in Cogsworth. Luminara's photos reveal fractal code (matching Mechanica heists) embedded within sabotaged temporal mechanisms. Dr. Paradox consulted remotely confirms the tech signature links to Mechanica.
 **DIMENSIONS:** Cogsworth Cogitarium
-**CHARACTERS:** Pixel Paradox, Luminara, Dr. Paradox (remote), A1
+**CHARACTERS:** Pixel Paradox, Luminara, Dr. Paradox (remote), A1 (remote)
 **HOOK:** The sabotaged mechanisms seem to be generating components for a larger device – the Syndicate's beacon, using Cogsworth's temporal instability.
 
 ### WEEK 7

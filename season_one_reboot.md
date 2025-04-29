@@ -8,7 +8,7 @@
 
 | Dimension | Genre | Key Traits | Role in Season 1 |
 |-----------|-------|------------|------------------|
-| **1. Prime Material** | Urban Sci-Fi/Political Thriller | Unpredictable physics, *Ephergent* HQ, black markets | Central hub for conspiracies; hosts rogue AI weather systems (ex-Cloud Parliament) and Fractal Syndicate operations. |  
+| **1. Prime Material** | Urban Sci-Fi/Political Thriller | Unpredictable physics, *Ephergent* HQ, black markets | Central hub for conspiracies; hosts  Fractal Syndicate operations. |
 | **2. Nocturne Aeturnus** | Gothic Horror | Perpetual twilight, emotional energy synthesis | Source of weaponized despair; aesthetic collapse destabilizes The Edge. |  
 | **3. Cogsworth Cogitarium** | Steampunk/Time-Travel | Absurd clockwork, tea-powered tech | Sabotaged by fractal tech; temporal paradoxes threaten stability. |  
 | **4. Mechanica** | Cyberpunk/AI | Sentient machines, neon-lit megacities | Fractal Syndicate’s tech source; A1’s origin tied to its AI overlords. |  
@@ -58,7 +58,4 @@
 - **Focused Antagonists:** Fractal Syndicate + Those Who Wait (no overlapping factions).  
 - **A1’s Mystery:** A ticking time bomb for character-driven stakes.  
 
----
 
-**NEXT STEPS**  
-Let’s co-create a revised content calendar or draft a pilot blog post to test this framework! 🚀
