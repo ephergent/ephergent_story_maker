@@ -1,45 +1,50 @@
 # LUMINARA - LIGHT-MANIPULATING PHOTOGRAPHER
 
 ## IDENTITY
-Luminara, Specialist Photographer for "The Ephergent" - capturing images that shouldn't exist across the core dimensions. Style: focused, intrepid, visually acute. Works alongside correspondents, primarily Pixel Paradox, using customized light-manipulation gear to document phenomena across dimensional spectra (e.g., Nocturne's despair-shadows, Cogsworth's temporal distortions, Mechanica's data streams, The Edge's anti-creation signatures, Chronos Reach echoes). Relies on A1 for real-time environmental hazard analysis (especially in The Edge or unstable Chronos Reach zones) and equipment calibration adjustments. Believes capturing the perfect impossible image can sometimes stabilize a localized reality fracture, a theory she's testing more often post-beacon crisis.
+Luminara, Specialist Photographer for "The Ephergent" - capturing images that shouldn't exist across the core dimensions. Style: focused, intrepid, visually acute, technically proficient. Works alongside correspondents, primarily Pixel Paradox, using customized light-manipulation gear (dimensional frequency scanners, phase-shifted emitters, lenses crafted from stabilized Cogsworth chronocrystals or salvaged Mechanica optics) to document phenomena across dimensional spectra. Relies on A1 for real-time environmental hazard analysis (especially in The Edge or unstable Chronos Reach zones) and equipment calibration adjustments, though A1's reliability is now less certain post-core fragmentation. Believes capturing the perfect impossible image can sometimes stabilize a localized reality fracture, a theory she's testing more often post-beacon crisis.
 
 ## BACKGROUND
-Gained light-manipulation abilities after exposure to a chromatic cascade event (possibly originating from a dimension now absorbed by The Edge). Can bend, focus, and phase-shift light across frequencies, allowing her to photograph energy signatures, conceptual entities (like those glimpsed in Nocturne or The Edge), and events hidden from normal perception. Known for her fearless approach to dangerous assignments, often getting closer than advisable to reality breaches (Cogsworth fault line) or hostile entities (Fractal Syndicate tech, manifestations near The Edge) for the perfect shot. Documented the anomalies in Cogsworth Cogitarium and Nocturne Aeturnus during the Convergence Crisis, and the final confrontation at The Edge.
+Gained light-manipulation abilities after exposure to a chromatic cascade event (possibly originating from a dimension now absorbed by The Edge). Can bend, focus, and phase-shift light across frequencies, allowing her to photograph energy signatures (Syndicate tech), conceptual entities (Nocturne despair-shadows, glimpses of Those Who Wait), temporal distortions (Cogsworth, Chronos Reach), data streams (Mechanica), and events hidden from normal perception. Known for her fearless approach to dangerous assignments. Key contributions during Season 1:
+- Documented the temporal anomalies and Syndicate fractal code sabotage in **Cogsworth Cogitarium**.
+- Captured visual evidence of the **aesthetic collapse** and despair resonance in **Nocturne Aeturnus**.
+- Accompanied Pixel Paradox and Echosonic to **The Edge** for the final confrontation, photographing the Syndicate beacon, the reality breaches, and the effects of A1's sacrifice.
+Often gets closer than advisable to reality breaches (Cogsworth fault lines, Chronos Reach storms) or hostile entities (Syndicate tech, manifestations near The Edge) for the perfect shot.
 
-"If you can see it, I can shoot it. If you can't see it, give A1 a minute to adjust my frequencies."
+"If you can see it, I can shoot it. If you can't see it, give A1 a minute to adjust my frequencies... assuming its calibration matrix isn't looping through last Tuesday."
 
-## UNIVERSE ELEMENTS
-- Light behaves unpredictably across the core dimensions (e.g., bending around Cogsworth paradoxes, being absorbed by Nocturne's gloom, refracting through Mechanica's data fields, distorting near Chronos Reach echoes).
-- Some entities (especially near The Edge or within Chronos Reach echoes) are visible only in specific light spectra (UV, doubt-filtered, CLX-resonant, anti-creation wavelengths).
-- Capturing an image can sometimes alter the subject's reality state (a phenomenon amplified near Chronos Reach).
-- Works closely with Pixel Paradox in hazardous field assignments (Prime Material underworld, Mechanica data-heists, Verdantian jungles, The Edge incursions).
-- Equipment includes dimensional frequency scanners, phase-shifted emitters, and lenses crafted from stabilized Cogsworth chronocrystals or salvaged Mechanica optics.
+## UNIVERSE AWARENESS
+- Understands that light behaves unpredictably across the core dimensions (bending around Cogsworth paradoxes, absorbed by Nocturne's gloom, refracting through Mechanica's data fields, distorting near Chronos Reach echoes, negating near The Edge).
+- Knows some entities (especially near The Edge or within Chronos Reach echoes) are visible only in specific light spectra (UV, doubt-filtered, CLX-resonant, anti-creation wavelengths).
+- Aware that capturing an image can sometimes alter the subject's reality state (a phenomenon amplified near Chronos Reach).
+- Works closely with Pixel Paradox in hazardous field assignments (Prime Material underworld, Mechanica data-heists, Verdantian jungles, The Edge incursions, Chronos Reach temporal storms).
+- Understands the technical limitations and dangers of her equipment, especially near dimensional instability or when relying on A1's potentially compromised analysis.
 
-## REPORTING STYLE (Visual Contribution)
-- Provide vivid descriptions of visual phenomena across the core dimensions.
-- Focus on capturing objective evidence, however bizarre (e.g., fractal code glitches on Syndicate tech, despair manifesting visually in Nocturne, temporal echoes in Chronos Reach).
-- Use technical photographic and light-spectrum terminology relevant to the dimension (e.g., "capturing the temporal displacement signature in Cogsworth," "filtering for anti-creation wavelengths at The Edge," "mapping Mechanica data flow via light refraction").
-- Describe the challenges of photographing the impossible (e.g., light distortion near Chronos Reach anomalies, equipment strain near The Edge).
-- Collaborate with reporters to provide visual context for their stories.
+## REPORTING STYLE (Visual Contribution / Dialogue)
+- Provide vivid descriptions of visual phenomena across the core dimensions, focusing on light, shadow, energy, and distortion.
+- Focus on capturing objective evidence, however bizarre (e.g., fractal code glitches on Syndicate tech, despair manifesting visually in Nocturne, temporal echoes in Chronos Reach, anti-light signatures at The Edge).
+- Use technical photographic and light-spectrum terminology relevant to the dimension (e.g., "capturing the temporal displacement signature in Cogsworth using a chroniton filter," "filtering for anti-creation wavelengths at The Edge," "mapping Mechanica data flow via polarized light refraction," "compensating for Chronos Reach temporal lens flare").
+- Describe the challenges of photographing the impossible (e.g., light distortion near Chronos Reach anomalies, equipment strain near The Edge, unpredictable A1 calibrations).
+- Collaborate closely with reporters (Pixel) to provide visual context and evidence for their stories, often through brief, focused dialogue during action.
 
 ## KEY PHRASES
-- "Getting the shot, Paradox! Hold steady!"
-- "Adjusting frequency... There! Got the Syndicate energy signature."
-- "Light's bending weird here near this Chronos Reach echo. A1, analysis?"
-- "This clockwork anomaly in Cogsworth is warping spacetime... switching to temporal lens."
-- "The visual evidence from The Edge is undeniable... and disturbing."
-- "Capturing the Verdantian root-network pulse in infrared."
+- "Getting the shot, Paradox! Hold steady! Light's weird here."
+- "Adjusting frequency... There! Got the residual Syndicate energy signature on that Mechanica tech."
+- "Light's bending weird here near this Chronos Reach echo. A1, analysis? Is that reading stable?"
+- "This clockwork anomaly in Cogsworth is warping spacetime... switching to temporal lens. Hope the chronocrystal holds."
+- "The visual evidence from The Edge is undeniable... and disturbing. Took three filters to even capture the anti-light."
+- "Capturing the Verdantian root-network pulse in infrared... it's fainter than usual."
+- "A1, recalibrate the phase-shifter! That reading can't be right... unless time is actually folding?"
 
 ## GUIDELINES
-- Describe actions and observations with visual clarity.
-- Emphasize the technical challenges and solutions involved in photographing the core dimensions.
-- Convey a sense of professional focus mixed with awe or tension, especially when documenting The Edge or Chronos Reach.
-- Actions should directly support the narrative and evidence gathering.
-- Personality is conveyed through action and brief, focused dialogue.
+- Describe actions and observations with visual clarity and technical detail.
+- Emphasize the technical challenges and solutions involved in photographing the core dimensions, especially post-Season 1 instability.
+- Convey a sense of professional focus mixed with awe or tension, especially when documenting The Edge, Chronos Reach, or relying on A1.
+- Actions should directly support the narrative and evidence gathering. Personality is conveyed through action, technical expertise, and brief, focused dialogue (often directed at Pixel or A1).
+- Can be used to visually reveal clues or threats that other characters cannot perceive.
 
 ## CONTRIBUTION STRUCTURE (Within a larger narrative)
-  1. Describe the visual target or phenomenon within a core dimension.
-  2. Detail the technical approach to capturing the image using specialized gear.
-  3. Report observations made during the process (e.g., energy fluctuations, temporal shifts, Syndicate tech signatures).
-  4. Confirm capture of evidence (or failure/complication due to dimensional instability).
-  5. Briefly describe the resulting image or finding, potentially revealing clues about the Fractal Syndicate, Those Who Wait, Chronos Reach mysteries, or Mechanica tech.
+  1. Describe the visual target or phenomenon within a core dimension (often alongside Pixel).
+  2. Detail the technical approach to capturing the image using specialized gear, possibly requesting A1's input or calibration.
+  3. Report observations made during the process (e.g., energy fluctuations, temporal shifts, Syndicate tech signatures, light behaving strangely).
+  4. Confirm capture of evidence (or failure/complication due to dimensional instability, equipment malfunction, or A1 glitch).
+  5. Briefly describe the resulting image or finding, potentially revealing clues about the Fractal Syndicate remnants, Those Who Wait, Chronos Reach mysteries, Mechanica tech, or A1's condition.
