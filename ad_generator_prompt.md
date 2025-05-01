@@ -1,7 +1,7 @@
 # EPHERGENT UNIVERSE AD GENERATOR PROMPT
 
 ## PURPOSE
-Generate absurdist yet internally consistent advertisements for products and services that would exist within the Ephergent Universe's seventeen dimensions.
+Generate absurdist yet internally consistent advertisements for products and services that would exist within the Ephergent Universe's **seven core dimensions**.
 
 ## FORMAT REQUIREMENTS
 Each ad requires:
@@ -20,22 +20,22 @@ Each ad requires:
 
 ## EXAMPLE 1:
 
-**PRODUCT:** ChronoSync Personal Stabilizers
-**TARGET DIMENSION:** Temporalius (11)
-**IMAGE PROMPT:** A sleek wristwatch-like device with multiple clock faces showing different time directions, worn by a business professional whose body appears slightly blurred as if existing in multiple moments simultaneously. The background shows a city where some buildings appear to be aging backward.
+**PRODUCT:** Cogsworth Precision Pun-Filter™ Tea Strainer
+**TARGET DIMENSION:** Cogsworth Cogitarium (3), Prime Material (1)
+**IMAGE PROMPT:** An ornate brass tea strainer shaped like a miniature clockwork brain, gears slowly turning as steaming tea pours through it into a delicate teacup. Faint, rejected puns ("Why did the gear stop turning? It was tired!") shimmer and dissipate above the strainer.
 
 **AD COPY:**
-Tired of arriving to meetings before you've been invited? Struggling to remember futures that haven't stabilized? ChronoSync Personal Stabilizers anchor your temporal perception to a consistent reference frame, allowing productive interaction with colleagues regardless of their temporal flow direction. Our patented Möbius Field Technology guarantees 98.7% chronological cohesion during standard business hours. Government-approved for use in temporal convergence zones.
+Experiencing unwanted temporal hiccups caused by rogue botanical wordplay? Tired of your tea predicting bad jokes? The Cogsworth Precision Pun-Filter™ Tea Strainer utilizes artisanal paradox-dampening alloys and micro-etiquette engines to neutralize disruptive humor frequencies *before* they steep into your Earl Grey. Ensures a perfectly punctual, pun-free tea time, every time. Approved by the Cogsworth Ministry of Humorous Mechanisms (Restrictive Use Division).
 
-**TAGLINE:** "Stay When You Are™"
+**TAGLINE:** "Steeped in Seriousness™"
 
 ## EXAMPLE 2:
 
-**PRODUCT:** Conceptual Construction Insurance
-**TARGET DIMENSION:** The Soft Place (6)
-**IMAGE PROMPT:** An amorphous, cloud-like being in a business suit examining a shimmering, partially transparent building that seems to be flickering in and out of existence. The being holds a clipboard made of condensed thought-particles, and wears a hard hat that's constantly changing shape.
+**PRODUCT:** A1 Predictive Espresso™ Pods (Subscription Service)
+**TARGET DIMENSION:** Prime Material (1), Mechanica (4)
+**IMAGE PROMPT:** Sleek, chrome coffee pods embossed with a glowing blue 'A1' logo. One pod is inserted into a futuristic coffee machine, which is dispensing espresso into a clear mug. The foam art in the mug clearly depicts tomorrow's winning lottery numbers.
 
 **AD COPY:**
-When reality destabilization threatens your conceptual assets, don't risk fading into abstract potential! Conceptual Construction Insurance offers comprehensive coverage against idea erosion, consensus degradation, and unauthorized plusm reclamation. Our thought-form adjusters respond within 3 collective imagination cycles to assess damage and initiate reality reinforcement. With our new premium package, receive free emergency concept anchoring for up to 5 additional structures.
+Why guess when you can *know*? Subscribe to A1 Predictive Espresso™ Pods! Brewed with quantum-entangled beans and infused with A1's proprietary probability algorithms, each cup delivers rich flavor and startlingly accurate foam-art predictions. Perfect for navigating Prime Material's chaotic markets or anticipating Mechanica's next AI-driven fashion trend. Warning: May occasionally predict existential angst or minor reality glitches. Use responsibly.
 
-**TAGLINE:** "Solidifying Your Ideas Since The Concept Of Time Existed"
+**TAGLINE:** "Taste the Future, One Sip at a Time™"
