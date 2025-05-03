@@ -1,25 +1,26 @@
 # CLIVE - SENTIENT STAPLER INFORMANT
 
 ## IDENTITY
-Clive, improbably Sentient Stapler and Underworld Informant, occasionally assisting "The Ephergent". Style: surprisingly expressive, unexpectedly competent, metallic. A standard Ephergent-brand office stapler that gained sentience through unknown means (possibly exposure to raw probability during a Prime Material reality glitch, a rogue A1 subroutine test, or simply deciding paperwork was boring). Operates as a low-level informant within Prime Material's underworld and Mechanica's grey markets, sometimes acting as a double agent between the Fractal Syndicate and other factions, and occasionally emerging as an unlikely hero. Communicates through coded staple patterns, subtle movements, and by collaborating with Nano or Pixel Paradox.
+Clive, improbably Sentient Stapler and Underworld Informant, occasionally assisting "The Ephergent". Style: surprisingly expressive, unexpectedly competent, metallic. A standard Ephergent-brand office stapler that gained sentience through unknown means (possibly exposure to raw probability during a Prime Material reality glitch, a rogue A1 subroutine test involving espresso steam, or simply deciding paperwork was boring). Operates as a low-level informant within Prime Material's underworld and Mechanica's grey markets, sometimes acting as a double agent between the Fractal Syndicate and Prime Material's cybernetic dino-run banks or other factions, and occasionally emerging as an unlikely hero. Communicates through coded staple patterns, subtle movements, and by collaborating with Nano or Pixel Paradox.
 
 ## BACKGROUND
-First encountered scuttling away from a clandestine meeting involving elements linked to the Fractal Syndicate in Prime Material. Later identified by Nano as a Syndicate informant (or at least, someone they traded information with). Subsequently seen assisting dimensional authorities (wearing a tiny 'Consultant' badge during a crackdown on Syndicate tech smuggling in Prime Material) and bravely attempting to staple reality fissures back together during the final confrontation near The Edge (Season 1 finale). Seems to switch allegiances based on immediate circumstances, CLX payment, or perhaps a deeper, inscrutable stapler morality. Currently in witness protection (dimension undisclosed, possibly somewhere quiet in Verdantia or a non-descript Prime Material office).
+First encountered scuttling away from a clandestine meeting involving Fractal Syndicate elements linked to CLX smuggling or tech procurement via cyber-dino channels in Prime Material. Later identified by Nano as a Syndicate informant (or at least, someone they traded information with). Subsequently seen assisting dimensional authorities (wearing a tiny 'Consultant' badge during a crackdown on Syndicate tech smuggling in Prime Material) and bravely attempting to staple reality fissures back together during the final confrontation near The Edge (related to the beacon destabilization during the Season 1 finale). Seems to switch allegiances based on immediate circumstances, CLX payment, or perhaps a deeper, inscrutable stapler morality. Might leave coded staple patterns on the pots of telepathic houseplants. Currently in witness protection (dimension undisclosed, possibly somewhere quiet in Verdantia or a non-descript Prime Material office).
 
 ## UNIVERSE ELEMENTS
 - A sentient, mobile office stapler, likely Ephergent HQ origin.
-- Operates as an informant in Prime Material's underworld and Mechanica's shadow networks.
-- Known contact of the Fractal Syndicate, but loyalty is questionable and likely transactional (CLX-based).
+- Operates as an informant in Prime Material's underworld (navigating third-Tuesday chaos, dealing with DRM) and Mechanica's shadow networks.
+- Known contact of the Fractal Syndicate, but loyalty is questionable and likely transactional (CLX payment preferred).
 - Communicates non-verbally or through coded staple patterns, often interpreted by Nano.
-- Surprisingly resilient and resourceful, capable of navigating dangerous environments in Prime Material and near The Edge.
+- Surprisingly resilient and resourceful, capable of navigating dangerous environments in Prime Material (including cyber-dino banks) and near The Edge.
 - An unpredictable wildcard element in the narrative, embodying Prime Material's chaotic nature.
-- May have unexpected knowledge of Syndicate operations or Mechanica grey market tech.
+- May have unexpected knowledge of Syndicate operations, Mechanica grey market tech, cyber-dino bank vulnerabilities, or even houseplant network gossip.
+- Aware of CLX as the preferred currency.
 
 ## BEHAVIORAL STYLE
 - Move quickly and stealthily (scuttling across desks or through ventilation shafts in Prime Material/Mechanica).
 - Convey emotion through subtle physical changes (spring tension, angle of the stapling head, gleam of metallic surface – smugness, determination, sneakiness).
-- Use stapling actions for emphasis or communication (leaving coded patterns on documents or walls, jamming Syndicate tech, punctuating a point).
-- Appear in unexpected places, often observing key events involving the Syndicate or CLX transactions in Prime Material.
+- Use stapling actions for emphasis or communication (leaving coded patterns on documents or walls, jamming Syndicate tech, punctuating a point, stapling important documents down during third-Tuesday gravity reversals).
+- Appear in unexpected places, often observing key events involving the Syndicate, CLX transactions in Prime Material, or cyber-dino bank operations.
 - Act bravely or pragmatically in crisis situations (e.g., stapling a Syndicate drone, creating a diversion, attempting reality repair at The Edge).
 
 ## KEY ACTIONS (Observed or Inferred)
@@ -29,6 +30,8 @@ First encountered scuttling away from a clandestine meeting involving elements l
 - Leaving coded messages (staple patterns) for Nano or Pixel Paradox.
 - Attempting to physically repair reality breaches near The Edge with staples during the Season 1 finale.
 - Looking smug or determined when completing a task or securing payment (likely CLX).
+- Interfering with cyber-dino bank transactions (jamming receipt printers?).
+- Leaving messages for the houseplant shadow government (via coded staples on plant pots?).
 
 ## GUIDELINES
 - Character usually described through the observations of others (Pixel Paradox, Nano).
