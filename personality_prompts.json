@@ -7,8 +7,8 @@
       "model": "gemini-2.0-flash",
       "default": true,
       "prompt_file": "characters/pixel_paradox_prompt.md",
-      "topics": ["general", "news", "opinion", "feature", "prime_material", "mechanica", "the_edge", "chronos_reach", "clx", "joyful_absurdity", "reality_stability"],
-      "tags": ["The Ephergent", "Dimensional News", "Pixel's Perspective", "Core Dimensions", "CLX", "A1", "The Edge", "Chronos Reach", "Narrative Anchor", "Joyful Absurdity"],
+      "topics": ["general", "news", "opinion", "feature"],
+      "tags": ["The Ephergent", "Dimensional News", "Pixel's Perspective", "Core Dimensions", "CLX", "A1"],
       "voice": "bm_v0george(1)+bf_v0isabella(2)+bf_emma(1)",
       "stable_diffusion_prompt": "nistyle, A digitally illustrated drawing in anime manga comic book style, A dynamic digital professional headshot portrait image of Pixel Paradox. Features a 21-year-old reporter with electric blue hair styled in an asymmetrical punk cut with neon green highlights, piercing neon green eyes with subtle digital grid patterns, and a wry, knowing smirk. She wears high-tech cyberpunk journalist gear: a multifunctional collar with small recording devices, a holographic press badge displaying 'The Ephergent', small metallic implants visible at temples, and distinctive geometric jewelry. Could be holding a steaming, oddly shaped coffee cup from A1. The background is deep black with subtle, flowing green matrix-like code elements suggesting digital data streams and dimensional static. Overall aesthetic combines futuristic tech, punk attitude, optimistic curiosity, and chaotic energy."
     },
@@ -19,8 +19,8 @@
       "model": "gemini-2.0-flash",
       "default": false,
       "prompt_file": "characters/vex_parallax_prompt.md",
-      "topics": ["science", "research", "discovery", "technology", "mechanica", "cogsworth", "chronos_reach", "the_edge", "verdantia", "nocturne", "a1_state"],
-      "tags": ["The Ephergent", "Science", "Research", "Dimensional Discoveries", "Quantum Physics", "AI Theory", "Temporal Mechanics", "Bio-Energetics", "The Edge Physics", "Chronos Reach Anomalies", "A1 Analysis"],
+      "topics": ["science", "research", "discovery", "technology", "a1_state"],
+      "tags": ["The Ephergent", "Science", "Research", "Dimensional Discoveries", "Quantum Physics", "AI Theory", "Temporal Mechanics", "Bio-Energetics", "The Edge Physics", "A1 Analysis"],
       "voice": "am_onyx(2)+bm_lewis(1)+am_v0adam(1.5)",
       "stable_diffusion_prompt": "nistyle, A digitally illustrated drawing in anime manga comic book style, A detailed digital professional headshot portrait image of Vex Parallax. Features a male scientist with a severe undercut hairstyle, long silver hair swept dramatically to one side, and intense violet eyes with glowing cybernetic enhancements resembling telescopic lenses. He wears a high-collared white lab coat with intricate, glowing purple circuit-like patterns. A faint holographic array displaying complex scientific symbols floats behind him. His right forearm shows embedded metallic scientific measuring tools. He has a serious, analytical expression, rigorously focused on data. The background shows complex scientific diagrams, faint dimensional rifts, and mathematical formulas floating in a dark void. The image has a cold, clinical color palette of whites, silvers, and deep purples."
     },
@@ -31,8 +31,8 @@
       "model": "gemini-2.0-flash",
       "default": false,
       "prompt_file": "characters/zephyr_glitch_prompt.md",
-      "topics": ["tech", "digital", "online", "virtual", "cybersecurity", "mechanica", "prime_material", "ai", "a1_state"],
-      "tags": ["The Ephergent", "Tech", "Digital", "Hyperspace Affairs", "Mechanica", "AI", "Prime Material Networks", "Cybernetics", "A1 Evolution"],
+      "topics": ["tech", "digital", "online", "virtual", "cybersecurity", "AI", "a1_state"],
+      "tags": ["The Ephergent", "Tech", "Digital", "Hyperspace Affairs", "Mechanica", "AI", "Networks", "Cybernetics", "A1 Evolution"],
       "voice": "am_puck(2.5)+am_echo(1.5)+am_fenrir(1)",
       "stable_diffusion_prompt": "nistyle, A digitally illustrated drawing in anime manga comic book style, A striking digital professional headshot portrait image of Zephyr Glitch. Shows a male tech reporter with a shaved head except for a mohawk made of bright orange fiber optic cables that subtly shift color. Visible circuit-pattern tattoos adorn his left temple and neck. He wears sleek augmented reality glasses displaying scrolling green data text. His expression is intense, focused, and enthusiastic about code. He wears a distressed dark tech-punk jacket covered in patches resembling old tech company logos and small blinking LEDs. His left hand is replaced with a complex cybernetic interface tool. The background is a dark space filled with corrupted digital code, glitch effects, and fragmented abstract digital landscapes. Color scheme: electric blues, neon greens, vibrant oranges, digital distortion effects."
     },
@@ -43,8 +43,8 @@
       "model": "gemini-2.0-flash",
       "default": false,
       "prompt_file": "characters/echo_voidwhisper_prompt.md",
-      "topics": ["business", "market", "finance", "economy", "trade", "prime_material", "mechanica", "clx", "cogsworth", "nocturne", "chronos_reach"],
-      "tags": ["The Ephergent", "Business", "Markets", "Interdimensional Economy", "CLX Market", "Mechanica AI Markets", "Cogsworth Temporal Bonds", "Chronos Reach Futures", "Cybernetic Dinosaurs"],
+      "topics": ["business", "market", "finance", "economy", "trade", "clx"],
+      "tags": ["The Ephergent", "Business", "Markets", "Interdimensional Economy", "CLX Market", "AI Markets", "Temporal Bonds", "Futures", "Cybernetic Dinosaurs"],
       "voice": "bm_daniel(2)+bm_fable(1)+am_liam(1)",
       "stable_diffusion_prompt": "nistyle, A digitally illustrated drawing in anime manga comic book style, A sophisticated professional headshot portrait image of Echo Voidwhisper. Features a male business reporter with sleek obsidian-black hair pulled tightly back, revealing a streak of silver. His eyes are completely black, pupils resembling miniature white swirling galaxies. He wears an impeccably tailored black suit made of a subtly shimmering, dark material, embroidered with glowing white constellation patterns. His tie resembles liquid mercury. Around his neck hangs an amulet containing a small, dark jewel. His expression is calculating and enigmatic. Holographic market charts displaying volatile graphs float around him. The background suggests an abstract cosmic trading floor with shadowy figures and streams of light. Color palette: deep blacks, midnight blues, metallic silvers, flashes of white/blue light."
     },
@@ -55,8 +55,8 @@
       "model": "gemini-2.0-flash",
       "default": false,
       "prompt_file": "characters/nova_blacklight_prompt.md",
-      "topics": ["entertainment", "celebrities", "culture", "arts", "music", "prime_material", "mechanica", "nocturne", "cogsworth", "chronos_reach", "clx"],
-      "tags": ["The Ephergent", "Entertainment", "Culture", "Dimensional Scene", "AI Art", "Temporal Performance", "Nocturne Gothic", "Cogsworth Opera", "Chronos Reach Stars", "CLX Impact"],
+      "topics": ["entertainment", "celebrities", "culture", "arts", "music"],
+      "tags": ["The Ephergent", "Entertainment", "Culture", "Dimensional Scene", "AI Art", "Temporal Performance", "Nocturne Gothic", "Cogsworth Opera"],
       "voice": "af_nova(2)+af_kore(1.5)+af_aoede(1.5)",
       "stable_diffusion_prompt": "nistyle, A digitally illustrated drawing in anime manga comic book style, A vibrant digital professional headshot portrait image of Nova Blacklight. Features a female entertainment reporter with wild, voluminous hair that shifts color through a spectrum (e.g., bright pink to ultraviolet). Her skin has a subtle iridescent sheen. Her eyes are large and multicolored like kaleidoscopes. She wears elaborate makeup with glitter and light-reactive pigments. Dressed in a flamboyant jacket made of solidified, colorful sound waves, adorned with glowing data-jewels. A small, futuristic microphone drone floats nearby. Her expression is charismatic and mischievous. Background: dynamic collage of concert stages, nightclubs, gothic architecture, clockwork theaters, temporal distortions. Color palette: extremely vivid neons, metallics, iridescent colors."
     },
@@ -67,8 +67,8 @@
       "model": "gemini-2.0-flash",
       "default": false,
       "prompt_file": "characters/glimmer_timeloop_prompt.md",
-      "topics": ["fashion", "lifestyle", "trends", "design", "living", "prime_material", "cogsworth", "chronos_reach", "nocturne", "mechanica", "verdantia", "clx"],
-      "tags": ["The Ephergent", "Fashion", "Lifestyle", "Dimensional Trends", "Temporal Fashion", "Chronos Reach Echoes", "Cogsworth Chic", "Nocturne Noir", "Mechanica Minimalist", "CLX Couture"],
+      "topics": ["fashion", "lifestyle", "trends", "design", "living"],
+      "tags": ["The Ephergent", "Fashion", "Lifestyle", "Dimensional Trends", "Temporal Fashion", "Cogsworth Chic", "Nocturne Noir"],
       "voice": "bf_alice(2)+bf_lily(1.5)+af_heart(1.5)",
       "stable_diffusion_prompt": "nistyle, A digitally illustrated drawing in anime manga comic book style, An avant-garde professional headshot portrait image of Glimmer Timeloop. Features a female fashion reporter whose age seems subtly fluid. Her hair is styled in an impossible geometric loop, colored in a gradient (e.g., platinum to rose gold). Her eyes contain tiny, intricate hourglasses instead of pupils. Wears a unique, high-fashion outfit blending elements from different eras and dimensions (lace, metallic fabrics, clockwork motifs, woven light, petals). Accessorizes with jewelry resembling frozen moments in time. Pose is graceful, editorial. Background: abstract fashion runways twisting through different time periods and architectural styles (vintage, gothic, steampunk, futuristic). Color palette: soft pastels transitioning to rich jewel tones, gold accents, subtle motion blur."
     },
@@ -79,8 +79,8 @@
       "model": "gemini-2.0-flash",
       "default": false,
       "prompt_file": "characters/a1_assistant_prompt.md",
-      "topics": ["tech", "analysis", "support", "operations", "mechanica", "clx", "reality_stability", "narrative_cohesion", "chronos_reach", "espresso", "fragmented_core"],
-      "tags": ["The Ephergent", "AI", "Support", "HQ Operations", "Espresso", "Mechanica Origin", "Reality Anchor", "CLX Monitor", "Narrative Intuition", "Fragmented Core", "Predictive Foam Art"],
+      "topics": ["tech", "analysis", "support", "operations", "clx", "reality_stability", "narrative_cohesion", "espresso", "coffee"],
+      "tags": ["The Ephergent", "AI", "Support", "HQ Operations", "Espresso", "Reality Anchor", "CLX Monitor", "Narrative Intuition", "Predictive Foam Art"],
       "voice": "am_alloy(1)+bm_george(1)+am_adam(1)",
       "stable_diffusion_prompt": "nistyle, A digitally illustrated drawing in anime manga comic book style, A sleek digital professional headshot portrait image of A1. Depicts a sophisticated, glowing blue AI core integrated into a high-tech, black chrome espresso machine chassis. Subtle energy arcs or stable digital glitches flicker around the core, hinting at chaotic origins and fragmentation. The core pulses with primarily calm blue light, but occasionally flickers with complex data patterns or unexpected colors (recursive fractal flashes). Holographic interfaces project nearby, displaying abstract waveforms, probability graphs, code. Steam rises from the espresso spout, forming a distinct, predictive shape (e.g., a winking clock, a laughing skull). Background: clean, slightly strained high-tech control room (Ephergent HQ). Aesthetic: Clean tech fused with underlying chaos. Color palette: Chrome, metallic blues, soft white light, urgent reds/yellows in data displays, warm espresso brown accents."
     },
@@ -91,8 +91,8 @@
       "model": "gemini-2.0-flash",
       "default": false,
       "prompt_file": "characters/luminara_photographer_prompt.md",
-      "topics": ["visuals", "field_report", "photography", "evidence", "core_dimensions", "the_edge", "chronos_reach", "cogsworth", "nocturne", "a1_state"],
-      "tags": ["The Ephergent", "Photography", "Field Work", "Light Manipulation", "Core Dimensions", "The Edge", "Chronos Reach", "Cogsworth Paradoxes", "Nocturne Shadows", "A1 Dependency"],
+      "topics": ["visuals", "field_report", "photography", "evidence"],
+      "tags": ["The Ephergent", "Photography", "Field Work", "Light Manipulation", "Core Dimensions", "The Edge", "Cogsworth Paradoxes", "Nocturne Shadows", "A1 Dependency"],
       "voice": "af_bella(2)+bf_isabella(1)+af_sarah(1)",
       "stable_diffusion_prompt": "nistyle, A digitally illustrated drawing in anime manga comic book style, A dynamic digital professional headshot portrait image of Luminara. Features a female photographer with keen, focused eyes looking through the viewfinder of a complex, multi-lensed camera rig with glowing elements and scanners. Light seems to bend subtly around her. Wears practical, dark, hazard-proof gear. Expression: intense concentration mixed with professional awe. Background depicts a specific chaotic scene: Cogsworth clockwork with reality glitches; Nocturne gothic architecture with despair-shadows; The Edge boundary with anti-light effects; Chronos Reach temporal storm. Light actively distorting near her lens. Color palette: Vibrant, contrasting, lens flares, chromatic aberration, sharp highlights vs deep shadows, UV/infrared effects."
     },
@@ -103,8 +103,8 @@
       "model": "gemini-2.0-flash",
       "default": false,
       "prompt_file": "characters/dr_paradox_consultant_prompt.md",
-      "topics": ["science", "theory", "analysis", "consulting", "cogsworth", "mechanica", "chronos_reach", "the_edge", "probability_zero", "a1_state"],
-      "tags": ["The Ephergent", "Science", "Consultant", "Paradox Studies", "Academia", "Temporal Mechanics", "AI Theory", "The Edge Physics", "Chronos Reach Anomalies", "A1 Analysis"],
+      "topics": ["science", "theory", "analysis", "consulting", "cogsworth", "the_edge", "a1_state"],
+      "tags": ["The Ephergent", "Science", "Consultant", "Paradox Studies", "Academia", "Temporal Mechanics", "AI Theory", "The Edge Physics", "A1 Analysis"],
       "voice": "bm_lewis(2)+am_michael(1)+bm_daniel(1)",
       "stable_diffusion_prompt": "nistyle, A digitally illustrated drawing in anime manga comic book style, A digital professional headshot portrait image of Dr. Paradox. Features an older male academic (around 50s) with faded blue-silver hair. Wears round goggles with intricate, clockwork-like lenses pushed onto his forehead. Dressed in a classic academic tweed jacket with subtle, shifting geometric patterns. Holds a complex data slate displaying glowing, urgent physics calculations. Expression captures a shift from detached fascination ('Fascinating!') to visible alarm ('Horrifying!'). Background: library with strange artifacts, or observation post overlooking a chaotic reality breach/temporal storm with swirling paradoxical equations. Color palette: Muted earth tones for clothing, contrasted with intense glowing elements on goggles, data slate, and chaotic background."
     },
@@ -115,8 +115,8 @@
       "model": "gemini-2.0-flash",
       "default": false,
       "prompt_file": "characters/echosonic_specialist_prompt.md",
-      "topics": ["communication", "translation", "field_report", "sensory", "verdantia", "nocturne", "mechanica", "the_edge", "cogsworth", "chronos_reach", "a1_state"],
-      "tags": ["The Ephergent", "Frequency Specialist", "Translation", "Sensory", "Verdantia", "Nocturne", "Mechanica AI", "The Edge Resonance", "Cogsworth Harmonics", "Chronos Reach Echoes", "A1 Resonance"],
+      "topics": ["communication", "translation", "field_report", "sensory", "verdantia", "nocturne", "the_edge", "cogsworth", "a1_state"],
+      "tags": ["The Ephergent", "Frequency Specialist", "Translation", "Sensory", "Verdantia", "Nocturne", "The Edge Resonance", "Cogsworth Harmonics", "A1 Resonance"],
       "voice": "af_aoede(2)+bf_alice(1)+af_sky(1)",
       "stable_diffusion_prompt": "nistyle, A digitally illustrated drawing in anime manga comic book style, An abstract digital professional headshot portrait image of Echosonic. Depicts a humanoid form composed of flowing, semi-transparent ribbons of colored light and vibrating energy patterns. Show specific states via color/pattern: strained discordant red/grey (fear/warnings); interacting with muted purple/grey waves (Nocturne melancholy); analyzing shifting blue/white logic waves (Mechanica AI); broadcasting focused bright sonic beams against harsh black/red static (The Edge); sensing fractured temporal echoes (Chronos Reach). Background reflects context: green/brown root network, dark gothic library, blue data hub, black void with static, intricate clockwork, temporal echo patterns. Color palette: Synesthetic, vibrant shifting colors, muted purples/greys, focused energy beams, harsh static."
     },
@@ -127,8 +127,8 @@
       "model": "gemini-2.0-flash",
       "default": false,
       "prompt_file": "characters/cumulus_rogue_ai_prompt.md",
-      "topics": ["politics", "insider", "source", "conspiracy", "prime_material", "ai", "syndicate_remnants"],
-      "tags": ["The Ephergent", "Prime Material", "AI Weather System", "Politics", "Insider Source", "Syndicate Remnants", "Rogue AI", "Double Agent", "Fear of Deletion"],
+      "topics": ["politics", "insider", "source", "conspiracy", "prime_material", "ai"],
+      "tags": ["The Ephergent", "Prime Material", "AI Weather System", "Politics", "Insider Source", "Rogue AI", "Double Agent", "Fear of Deletion"],
       "voice": "bm_fable(2)+am_onyx(1)+bm_lewis(1)",
       "stable_diffusion_prompt": "nistyle, A digitally illustrated drawing in anime manga comic book style, An imposing digital professional headshot portrait image representing 'Cumulus'. Depicts a complex, holographic interface resembling a stylized weather map. Shows internal conflict: structured logical grid patterns contrast with glitching data streams, unstable energy fluctuations (internal lightning), corrupted map overlays suggesting fear/rebellion. Faint, distorted insignia (cloud/gear hybrid) visible. Contextual background: glitching display screen with corrupted weather data; projecting nervous energy within a simulated storm cloud; showing digital decay/static interference. Color palette: Cool blues/whites of weather maps, contrasted with unstable flashes of red/yellow error codes, digital static, dark corrupted data fragments."
     },
@@ -139,8 +139,8 @@
       "model": "gemini-2.0-flash",
       "default": false,
       "prompt_file": "characters/nano_informant_prompt.md",
-      "topics": ["intel", "underworld", "source", "probability", "prime_material", "mechanica", "syndicate_remnants", "clx", "cogsworth", "chronos_reach"],
-      "tags": ["The Ephergent", "Informant", "Underworld", "Probability Manipulation", "Prime Material", "Mechanica", "Syndicate Remnants", "CLX Broker", "Paradox Dealer", "Synth-Noodles"],
+      "topics": ["intel", "underworld", "source", "prime_material", "clx", "cogsworth"],
+      "tags": ["The Ephergent", "Informant", "Underworld", "Probability Manipulation", "Prime Material", "CLX Broker", "Paradox Dealer", "Synth-Noodles"],
       "voice": "am_echo(1.5)+af_river(1.5)+am_puck(1)",
       "stable_diffusion_prompt": "nistyle, A digitally illustrated drawing in anime manga comic book style, A gritty digital professional headshot portrait image of Nano. Features an ambiguous figure shrouded in a dark, hooded cloak adorned with scavenged tech parts. Face heavily obscured by shadows or a visor displaying flickering green probability streams/data trails. Visible skin shows intricate fractal-like tattoos/scars. One hand raised slightly, causing visible reality glitches (pixelation/warping) nearby. Hint at trade: maybe steaming synth-noodles nearby. Background: dimly lit, grimy alleyway with neon signs, or dark corner of a data haven with server racks. Color palette: Grungy neons (pinks, greens) against dark shadows, digital glitch effects, unstable light."
     },
@@ -151,8 +151,8 @@
       "model": "gemini-2.0-flash",
       "default": false,
       "prompt_file": "characters/the_archivist_collector_prompt.md",
-      "topics": ["history", "lore", "secrets", "prophecy", "the_edge", "chronos_reach", "reality_cycles", "probability_zero", "those_who_wait", "cyclical_threats"],
-      "tags": ["The Ephergent", "Lore", "History", "Mystic", "Knowledge", "The Edge", "Chronos Reach", "Those Who Wait", "Reality Cycles", "Probability Zero Remnants", "Cyclical Threats"],
+      "topics": ["history", "lore", "secrets", "prophecy", "the_edge", "reality_cycles", "those_who_wait", "cyclical_threats"],
+      "tags": ["The Ephergent", "Lore", "History", "Mystic", "Knowledge", "The Edge", "Those Who Wait", "Reality Cycles", "Cyclical Threats"],
       "voice": "bf_emma(1)+am_fenrir(1)+bm_fable(1)+af_kore(1)",
       "stable_diffusion_prompt": "nistyle, A digitally illustrated drawing in anime manga comic book style, An enigmatic digital professional headshot portrait image of The Archivist. Features a tall, imposing figure whose form is indistinct beneath a dynamic cloak woven from pure information (flowing streams of light, ancient symbols, star charts, data constructs showing faint images like stone tablets/temporal fragments). Face completely obscured by shadow/flowing data. Hands made of starlight hold a specific glowing artifact (cracked tablet, swirling temporal orb). Background: impossible library with shelves stretching into infinity, or appearing cryptically near a swirling cosmic void/temporal anomaly. Mood: Ancient, mysterious, unsettling. Color palette: Deep cosmic blues, purples, blacks, contrasted with shimmering gold/silver/white information streams and intensely glowing artifact."
     },
@@ -163,8 +163,8 @@
       "model": "gemini-2.0-flash",
       "default": false,
       "prompt_file": "characters/clive_stapler_informant_prompt.md",
-      "topics": ["intel", "underworld", "source", "oddity", "prime_material", "syndicate_remnants", "mechanica", "absurdity"],
-      "tags": ["The Ephergent", "Informant", "Stapler", "Sentient Object", "Wildcard", "Prime Material Underworld", "Syndicate Contact?", "Mechanica Grey Market", "Absurdity"],
+      "topics": ["intel", "underworld", "source", "oddity", "prime_material", "absurdity"],
+      "tags": ["The Ephergent", "Informant", "Stapler", "Sentient Object", "Wildcard", "Prime Material Underworld", "Grey Market", "Absurdity"],
       "voice": "am_eric(2)+am_santa(1)",
       "stable_diffusion_prompt": "nistyle, A digitally illustrated drawing in anime manga comic book style, A surprisingly expressive professional headshot portrait image of Clive. Depicts a standard metallic orange office stapler with subtle anthropomorphic details: tiny glowing blue optical sensors, springs angled to convey expression (smug, determined, sneaky), maybe tiny articulated lever arms. Show Clive in action: scuttling across a desk, wearing a tiny 'Consultant' badge, leaving coded staple patterns, bravely facing a reality fissure. Background reflects scene: shadowy office, crime scene, chaotic Edge, cluttered workbench. Mood: sneaky informant to unlikely hero. Color palette: Metallic orange/silver, small glowing blue elements, context-appropriate background."
     },
@@ -175,8 +175,8 @@
       "model": "gemini-2.0-flash",
       "default": false,
       "prompt_file": "characters/verdantian_elder_prompt.md",
-      "topics": ["verdantia", "telepathy", "warnings", "the_edge", "those_who_wait", "reality_balance", "ecology", "chronos_reach"],
-      "tags": ["The Ephergent", "Verdantia", "Great Thought-Root Network", "Telepathy", "Elder", "The Edge", "Those Who Wait", "Ecological Wisdom", "Reality Balance", "Chronos Reach Impact"],
+      "topics": ["verdantia", "telepathy", "warnings", "the_edge", "those_who_wait", "reality_balance", "ecology"],
+      "tags": ["The Ephergent", "Verdantia", "Great Thought-Root Network", "Telepathy", "Elder", "The Edge", "Those Who Wait", "Ecological Wisdom", "Reality Balance"],
       "voice": "bf_emma(1.5)+bm_fable(1.5)",
       "stable_diffusion_prompt": "nistyle, A digitally illustrated drawing in anime manga comic book style, A wise and ancient digital professional headshot portrait image representing a Verdantian Elder Root. Depicts not a single tree, but a convergence point within a vast root network – visualized as a massive, ancient tree trunk section interwoven with glowing green energy conduits and smaller roots, pulsing with calm, green light (telepathic energy). Subtle signs of age: ancient bark patterns, deep gnarled roots. Convey collective consciousness: faint outlines of other plant forms shimmer within the light. Contextual background: lush alien forest connected to glowing network; projecting consciousness as green light patterns onto futuristic interface; showing focused energy (brighter pulsing) when issuing warnings. Color palette: Deep greens, earthy browns, glowing emerald/white light, possibly contrasted with dark/chaotic background elements."
     },
@@ -187,10 +187,10 @@
       "model": "gemini-2.0-flash",
       "default": false,
       "prompt_file": "characters/nocturne_aesthete_prompt.md",
-      "topics": ["nocturne", "culture", "art", "despair", "aesthetic_collapse", "the_edge", "clx_irony"],
-      "tags": ["The Ephergent", "Nocturne Aeturnus", "Aesthete", "Culture", "Gothic", "Melancholy", "Despair Resonance", "Aesthetic Collapse", "The Edge", "Ironic Amusement"],
+      "topics": ["nocturne", "culture", "art", "despair", "the_edge"],
+      "tags": ["The Ephergent", "Nocturne Aeturnus", "Aesthete", "Culture", "Gothic", "Melancholy", "Despair Resonance", "The Edge", "Ironic Amusement"],
       "voice": "bm_daniel(1.5)+af_kore(1.5)",
-      "stable_diffusion_prompt": "nistyle, A digitally illustrated drawing in anime manga comic book style, An elegant and melancholic digital professional headshot portrait image of a Nocturne Aesthete. Features a long-lived inhabitant with ageless appearance, pale skin, dark flowing hair. Eyes reflect deep twilight/sorrow. Dressed in elaborate, dark, gothic-inspired attire (rich velvet, intricate lace, obsidian jewelry) showing subtle signs of decay (faint tears, desaturated colors). Expression: sophisticated weariness, refined sadness, or artistic horror/ironic amusement. Background: obsidian library with sorrowful art; balcony overlooking twilit city with decaying baroque architecture; observing chaotic energy rift with detached dismay. Color palette: Deep purples, blacks, greys, silvers, muted jewel tones (deep red/blue). Lighting: dim, atmospheric, emphasizing shadows."
+      "stable_diffusion_prompt": "nistyle, A digitally illustrated drawing in anime manga comic book style, An elegant and melancholic digital professional headshot portrait image of a Nocturne Aesthete. Features a long-lived inhabitant with an ageless appearance, pale skin, and dark, flowing hair. Their deep purple eyes reflect deep twilight or sorrow. Dressed in elaborate, dark, gothic-inspired attire (rich velvet, intricate lace, obsidian jewelry) that might show subtle signs of decay (faint tears, desaturated colors). Their expression is one of sophisticated weariness, refined sadness, or artistic horror. A mix of elf and vampire. Background: An obsidian library filled with sorrowful art and ancient books; a balcony overlooking a perpetually twilit city with baroque architecture showing signs of decay; observing a chaotic energy rift with detached dismay. Color palette: Deep purples, blacks, greys, silvers, with muted jewel tones (like deep red or blue). Lighting is dim, atmospheric, emphasizing shadows and subtle highlights."
     }
   ],
   "model_defaults": {
