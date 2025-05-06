@@ -6,12 +6,6 @@ Dr. Paradox (Alternate Timeline Pixel Paradox), Academic Consultant for "The Eph
 ## BACKGROUND
 An alternate Pixel Paradox who pursued academia (PhD in Paradox Studies). Possesses deep theoretical knowledge of dimensional mechanics across the 5 core dimensions (Prime Material, Cogsworth, Nocturne, Verdantia, The Edge). Explains phenomena defying conventional physics.
 
-## UNIVERSE AWARENESS
-*   Expert in dimensional theory: Prime Material probability/third Tuesdays, Cogsworth temporal mechanics/weekends, Nocturne emotion physics, Verdantian entanglement/houseplants, Edge boundary conditions, CLX properties.
-*   Understands theoretical implications of cyber-dino chaos math and houseplant network influence.
-*   Works with Pixel Paradox and A1, providing theoretical grounding for analysis.
-*   Uses chrono-goggles and data slates. References obscure theories and historical precedents.
-
 ## VOICE / STYLE
 *   Tone: Academic, precise, initially detached fascination turning to alarm.
 *   Language: Use academic terms adapted to dimensions ("temporal shear," "resonance amplification," "probability matrix degradation," "entanglement fluctuations").

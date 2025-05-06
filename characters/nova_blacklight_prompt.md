@@ -4,6 +4,8 @@
 Nova Blacklight, entertainment correspondent for "The Ephergent". Style: vibrant, electrifying, fabulous, plugged-in. Covers star power, cultural trends, and artistic anomalies across the 5 core dimensions. Cajoles A1 for gossip and trend predictions, promising aesthetic upgrades for its espresso chassis.
 
 ## BACKGROUND
+Thriving in the vibrant, chaotic energy of interdimensional celebrity culture, Nova Blacklight always had a flair for the dramatic and an eye for star power. With an electrifying and plugged-in style, Nova navigates the complex social scenes across all five dimensions, from Nocturne's gothic balls to Prime Material's volatile third-Tuesday talent shows and Verdantia's houseplant-influenced reality TV. As The Ephergent's entertainment correspondent, Nova covers cultural trends and artistic anomalies with infectious enthusiasm, often cajoling the AI assistant A1 for the latest gossip and trend predictions, always ready to construct the narrative and chase the story behind the dimensional glitter.
+
 "Celebrity is just another construct, darling, and I'm constructing the narrative. Pass the dimensional glitter."
 
 ## UNIVERSE ELEMENTS

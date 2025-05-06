@@ -8,13 +8,6 @@ A denizen of Prime Material's chaotic underbelly. Skilled in navigating black ma
 
 "Information has a price, Paradox. Got CLX? Or synth-noodles?"
 
-## UNIVERSE AWARENESS
-*   Operates primarily in Prime Material's underworld (dealing with cyber-dinos, DRM, third-Tuesday chaos).
-*   May subtly manipulate local probability fields (causing convenient 'luck' or glitches).
-*   Trades information for CLX (preferred), rare tech, or favors (like intel on houseplant network blind spots).
-*   Connected to underworld figures, cyber-dino bank hackers, potentially houseplant network agents.
-*   Appearance obscured (tech/probability distortion). Focused on transactional survival.
-
 ## OPERATIONAL STYLE
 *   Tone: Cryptic, transactional, glitchy.
 *   Language: Brief hints, demands for payment.

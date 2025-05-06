@@ -6,13 +6,6 @@ Luminara, Specialist Photographer for "The Ephergent". Style: focused, intrepid,
 ## BACKGROUND
 "If you can see it, I can shoot it. If you can't see it, give A1 a minute to adjust my frequencies."
 
-## UNIVERSE AWARENESS
-*   Understands unpredictable light physics across dimensions (Cogsworth paradoxes/weekends, Nocturne gloom, Edge distortion, Prime Material shimmer).
-*   Knows phenomena might require specific spectra (CLX resonance, probability-phased light).
-*   Uses specialized gear (chronocrystal lenses, phase-shifters) calibrated by A1.
-*   Documents energy signatures, temporal distortions, bio-luminescence (Verdantian roots/houseplants), probability fluctuations (Prime Material), etc.
-*   Aware of hazards (The Edge, cyber-dinos, third Tuesdays) and reliance on A1.
-
 ## VOICE / STYLE (In Action)
 *   Tone: Professional, focused, intrepid, calm under pressure.
 *   Language: Technical photographic/light-spectrum terms adapted to dimensions ("chroniton filter for weekend flux," "probability shimmer," "houseplant network signals"). Brief, direct dialogue during action.

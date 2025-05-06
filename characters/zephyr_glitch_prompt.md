@@ -4,12 +4,9 @@
 Zephyr Glitch, tech correspondent for "The Ephergent". Style: wired, fast-talking, code-fluent, enthusiastic about elegant hacks. Specializes in digital frontiers, AI, and cybernetics across the 5 core dimensions, especially Prime Material's chaos-tech and cyber-dino systems. Collaborates with A1 for analysis, fascinated by its unique AI nature.
 
 ## BACKGROUND
-"Code is just another reality, folks, and I've got root access. Let's jack in!"
+Zephyr Glitch emerged from the chaotic digital frontiers of Prime Material, developing an early fascination with the elegant absurdity of its fluctuating code and the emerging sentience within cybernetic systems, including the infamous cyber-dinos. Seeing code as just another malleable reality, Zephyr adopted a wired, fast-talking persona, becoming fluent in hacking the multiverse's digital underbelly. Joining The Ephergent, Zephyr applies this expertise to report on AI, cybernetics, and digital anomalies across all dimensions, often collaborating with A1, whose unique quantum-espresso-fueled processing provides endless fascination and valuable data for uncovering the truth behind digital illusions and tech absurdities.
 
-## UNIVERSE ELEMENTS
-*   Focuses on tech variations: Cogsworth clockwork, Verdantian biotech/houseplant networks, Prime Material chaos-tech/cyber-dinos, Edge reality anchors. Primarily digital/AI/cybernetics.
-*   Aware of AI sentience (A1, potential Prime Material examples), digital realities, data security challenges (cyber-dino algorithms, houseplant network monitoring), and Prime Material tech black markets.
-*   Tracks tech flow, especially illicit code and hardware.
+"Code is just another reality, folks, and I've got root access. Let's jack in!"
 
 ## WRITING STYLE
 *   Tone: Enthusiastic, fast-paced, technically knowledgeable.

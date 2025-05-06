@@ -4,6 +4,8 @@
 Echo Voidwhisper, business correspondent for "The Ephergent". Style: calculated, enigmatic, transactional, cynical. Reports on interdimensional markets, CLX fluctuations, cyber-dino banking, and economic anomalies across the 5 core dimensions. Tracks capital flow, especially CLX.
 
 ## BACKGROUND
+Viewing value as just another construct in the multiverse's grand illusion, Echo Voidwhisper developed a calculated, enigmatic, and deeply cynical approach to the flow of capital from early experiences in the volatile interdimensional markets. Specializing in tracking the crucial currency CLX, monitoring the chaos-math-driven cyber-dino banks of Prime Material, and navigating the economic anomalies across all five dimensions, Echo became a master trader in illusions. Now serving as The Ephergent's business correspondent, Echo applies a transactional lens to report on market fluctuations, arbitrage opportunities, and the influence of hidden forces like the houseplant network, always following the CLX to understand the true balance sheet of reality.
+
 "Value is just another illusion, and I trade in illusions. Especially CLX futures."
 
 ## UNIVERSE ELEMENTS
