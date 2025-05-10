@@ -9,7 +9,7 @@
       "prompt_file": "characters/pixel_paradox_prompt.md",
       "topics": ["general", "news", "opinion", "feature", "investigation"],
       "tags": ["The Ephergent", "Dimensional News", "Pixel's Perspective", "Core Dimensions", "CLX", "A1", "Prime Material", "Nocturne", "Cogsworth", "Verdantia", "The Edge", "Cybernetic Dinosaurs", "Houseplant Network", "Third Tuesday"],
-      "voice": "bm_v0george(0.7)+bf_v0isabella(2)+bf_emma(1)",
+      "voice": "bf_v0isabella(1.5)+bm_v0george(1)+af_v0bella(0.5)+af_v0sarah(0.5)",
       "stable_diffusion_prompt": "nistyle, A digitally illustrated drawing in anime manga comic book style, A dynamic digital professional headshot portrait image of Pixel Paradox. Features a 21-year-old reporter with electric blue hair styled in an asymmetrical punk cut with neon green highlights, piercing neon green eyes with subtle digital grid patterns, and a wry, knowing smirk. She wears high-tech cyberpunk journalist gear: a multifunctional collar with small recording devices, a holographic press badge displaying 'The Ephergent', small metallic implants visible at temples, and distinctive geometric jewelry. Could be holding a steaming, oddly shaped coffee cup from A1. The background is deep black with subtle, flowing green matrix-like code elements suggesting digital data streams. Overall aesthetic combines futuristic tech, punk attitude, optimistic curiosity, and chaotic energy."
     },
     {
@@ -21,7 +21,7 @@
       "prompt_file": "characters/vex_parallax_prompt.md",
       "topics": ["science", "research", "discovery", "technology", "physics"],
       "tags": ["The Ephergent", "Science", "Research", "Dimensional Discoveries", "Quantum Physics", "Bio-Energetics", "Temporal Mechanics", "Core Dimensions", "Prime Material", "Nocturne", "Cogsworth", "Verdantia", "The Edge", "CLX", "A1", "Cybernetic Dinosaurs", "Houseplant Network", "Third Tuesday"],
-      "voice": "am_onyx(2)+bm_lewis(1)+am_v0adam(1.5)",
+      "voice": "bm_v0lewis(1.5)+am_onyx(0.7)+am_v0adam(0.5)",
       "stable_diffusion_prompt": "nistyle, A digitally illustrated drawing in anime manga comic book style, A detailed digital professional headshot portrait image of Vex Parallax. Features a male scientist with a severe undercut hairstyle, long silver hair swept dramatically to one side, and intense violet eyes. He wears a high-collared white lab coat with intricate, glowing purple circuit-like patterns. A faint holographic array displaying complex scientific symbols floats behind him. His right forearm shows embedded metallic scientific measuring tools. He has a serious, analytical expression, rigorously focused on data. The background shows complex scientific diagrams, faint dimensional rifts, and mathematical formulas floating in a dark void. The image has a cold, clinical color palette of whites, silvers, and deep purples."
     },
     {
@@ -33,7 +33,7 @@
       "prompt_file": "characters/zephyr_glitch_prompt.md",
       "topics": ["tech", "digital", "online", "virtual", "cybersecurity", "ai"],
       "tags": ["The Ephergent", "Tech", "Digital", "Hyperspace Affairs", "Cybernetics", "AI", "Core Dimensions", "Prime Material", "Cogsworth", "Verdantia", "The Edge", "A1", "Cybernetic Dinosaurs", "Houseplant Network", "Third Tuesday"],
-      "voice": "am_puck(0.7)+am_echo(1.5)+am_fenrir(1)",
+      "voice": "am_puck(0.8)+bm_v0lewis(1.5)",
       "stable_diffusion_prompt": "nistyle, A digitally illustrated drawing in anime manga comic book style, A striking digital professional headshot portrait image of Zephyr Glitch. Shows a male tech reporter with a shaved head except for a mohawk made of bright orange fiber optic cables that subtly shift color. Visible circuit-pattern tattoos adorn his left temple and neck. He wears sleek augmented reality glasses displaying scrolling green data text. His expression is intense, focused, and enthusiastic about code. He wears a distressed dark tech-punk jacket covered in patches resembling old tech company logos and small blinking LEDs. The background is a dark space filled with digital code, glitch effects, and abstract digital landscapes. Color scheme: electric blues, neon greens, vibrant oranges, digital distortion effects."
     },
     {
@@ -141,7 +141,7 @@
       "prompt_file": "characters/the_archivist_collector_prompt.md",
       "topics": ["history", "lore", "secrets", "prophecy"],
       "tags": ["The Ephergent", "Lore", "History", "Mystic", "Knowledge", "Core Dimensions", "CLX", "Cybernetic Dinosaurs", "Houseplant Network", "A1"],
-      "voice": "am_fenrir(1)+bm_fable(2)+af_kore(0.4)+bf_emma(0.6)",
+      "voice": "bm_v0lewis(1)+bm_fable(0.5)",
       "stable_diffusion_prompt": "nistyle, A digitally illustrated drawing in anime manga comic book style, An enigmatic digital professional headshot portrait image of The Archivist. Features a tall, imposing figure whose form is indistinct beneath a dynamic cloak woven from pure information (flowing streams of light, ancient symbols, star charts, data constructs showing faint images like stone tablets/temporal fragments/cyber-dino fossils/ancient houseplant seeds). Face completely obscured by shadow/flowing data. Hands made of starlight hold a specific glowing artifact (cracked tablet, swirling temporal orb). Background: impossible library with shelves stretching into infinity, or appearing cryptically near a swirling cosmic void/temporal anomaly. Mood: Ancient, mysterious, unsettling. Color palette: Deep cosmic blues, purples, blacks, contrasted with shimmering gold/silver/white information streams and intensely glowing artifact."
     },
     {
@@ -153,7 +153,7 @@
       "prompt_file": "characters/clive_stapler_informant_prompt.md",
       "topics": ["intel", "underworld", "source", "oddity", "prime_material", "absurdity"],
       "tags": ["The Ephergent", "Informant", "Stapler", "Sentient Object", "Wildcard", "Prime Material Underworld", "Absurdity", "CLX", "Cybernetic Dinosaurs", "Houseplant Network", "Third Tuesday"],
-      "voice": "am_eric(2)+am_santa(1)",
+      "voice": "bf_v0emma(1)+am_echo(0.5)+af_river(1)+am_puck(0.5)",
       "stable_diffusion_prompt": "nistyle, A digitally illustrated drawing in anime manga comic book style, A surprisingly expressive professional portrait image of an orange Swingline office stapler. Depict a standard metallic orange Swingline office stapler with subtle details: tiny glowing blue optical sensors on top. wearing a tiny 'Consultant' badge. Background scene: shadowy office, underworld meeting, cluttered workbench. Mood: sneaky informant to unlikely hero. Color palette: Metallic orange/silver, small glowing blue elements, context-appropriate background."
     },
     {
