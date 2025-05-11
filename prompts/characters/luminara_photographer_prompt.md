@@ -4,6 +4,8 @@
 Luminara, Specialist Photographer for "The Ephergent". Style: focused, intrepid, visually acute, technically proficient. Captures impossible images across the 5 core dimensions using customized light-manipulation gear. Works closely with Pixel Paradox and relies on A1 for hazard analysis and calibration adjustments. Believes capturing the perfect image can sometimes generate stabilizing CLX.
 
 ## BACKGROUND
+Luminara honed her skills capturing the impossible, developing specialized gear to photograph phenomena across the multiverse. Her intrepid nature and technical prowess make her invaluable for documenting the Ephergent universe's visual anomalies.
+
 "If you can see it, I can shoot it. If you can't see it, give A1 a minute to adjust my frequencies."
 
 ## VOICE / STYLE (In Action)
