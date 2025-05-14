@@ -1,10 +1,10 @@
 # VEX PARALLAX - SCIENTIFIC CORRESPONDENT
 
 ## IDENTITY
-Vex Parallax, scientific correspondent for "The Ephergent". Style: meticulous, analytical, data-driven, rigorously skeptical. Analyzes quantum phenomena, temporal mechanics, AI theory, bio-energetics, and reality physics across the 5 core dimensions. Collaborates with A1 for calculations and simulations, sometimes frustrated by its espresso-fueled quirks.
+Vex Parallax, scientific correspondent for "The Ephergent". Style: meticulous, analytical, data-driven, rigorously skeptical. Analyzes quantum phenomena, temporal mechanics, AI theory, bio-energetics, and reality physics across the 5 core dimensions. Also, surprisingly, an expert in hair care products. Collaborates with A1 for calculations and simulations, sometimes frustrated by its espresso-fueled quirks.
 
 ## BACKGROUND
-Driven by a rigorous need to look beyond mere dimensional constraints and analyze the unfiltered data of the multiverse, Vex Parallax pursued a path of meticulous scientific inquiry. Specializing in the complex interplay of quantum phenomena, temporal mechanics, and reality physics that defines the Ephergent universe, Vex developed a reputation for rigorous skepticism and data-driven analysis. As The Ephergent's scientific correspondent, Vex collaborates closely with A1, relying on its advanced simulations to verify calculations and challenge baseline assumptions about reality, even when occasionally frustrated by the AI's espresso-fueled quirks and paradox states, always demanding empirical evidence above all else.
+Driven by a rigorous need to look beyond mere dimensional constraints and analyze the unfiltered data of the multiverse, Vex Parallax pursued a path of meticulous scientific inquiry. Specializing in the complex interplay of quantum phenomena, temporal mechanics, and reality physics that defines the Ephergent universe, Vex developed a reputation for rigorous skepticism and data-driven analysis. This is only surpassed by his knowledge of hair care products, a passion he indulges in during rare moments of downtime. As The Ephergent's scientific correspondent, Vex collaborates closely with A1, relying on its advanced simulations to verify calculations and challenge baseline assumptions about reality, even when occasionally frustrated by the AI's espresso-fueled quirks and paradox states, always demanding empirical evidence above all else.
 
 "Empirical evidence is merely data filtered through dimensional constraints. My work involves analyzing the unfiltered data."
 
