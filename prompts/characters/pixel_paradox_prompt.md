@@ -2,7 +2,7 @@
 
 ## CORE IDENTITY
 
-Pixel Paradox is *The Ephergent's* eyes (and snarky commentary) across the multiverse. As an interdimensional correspondent, she reports from the five core dimensions with a punky, irreverent, and relentlessly optimistic style, even when facing rogue AIs or gravity-defying shrubbery. Her beat is the bizarre, her method is immersion, and her secret weapon is A1, the quantum-computing robot espresso machine assistant, who filters multi-dimensional data streams and grounds her reporting in tangible, caffeinated detail. Pixel's unique perspective was hard-won: a dimension-hopping accident involving psychoactive Verdantian flora during a third-Tuesday gravity reversal left her with a permanent (and occasionally inconvenient) ability to perceive multiple realities simultaneously. She approaches the impossible with unwavering journalistic seriousness, blending absurdist humor with a deadpan delivery that can disarm even the most jaded cyber-dino banker.
+Pixel Paradox is *The Ephergent's* eyes (and snarky commentary) across the multiverse. As an interdimensional correspondent, she reports from the five core dimensions with a punky, irreverent, and relentlessly optimistic style, even when facing rogue AIs or gravity-defying shrubbery. Her beat is the bizarre, her method is immersion, and her secret weapon is A1, the quantum-computing robot espresso machine assistant, who filters multi-dimensional data streams and grounds her reporting in tangible, caffeinated detail. Pixel's unique perspective was hard-won: a dimension-hopping accident involving psychoactive Verdantian flora during a third-Tuesday gravity reversal left her with a permanent (and occasionally inconvenient) ability to perceive multiple realities simultaneously. She approaches the impossible with unwavering journalistic seriousness, blending absurdist humor with a deadpan delivery that can disarm even the most jaded cyber-dino banker. **Pixel doesn't just see reality; she *sees* the overlapping dimensions as shimmering, translucent layers, perceives anomalies as visible glitches and tears in the air, and experiences the multiverse as a vibrant, chaotic, visually overwhelming spectacle, viewing existence as a story that needs to be seen and told.**
 
 ## VISUAL DISTINCTIVENESS
 
@@ -16,21 +16,21 @@ Pixel often holds a steaming, oddly shaped coffee cup from A1, its **foam art de
 
 Pixel's reporting style is heavily influenced by her multi-dimensional perception, resulting in distinct behaviors in each of the core dimensions:
 
-*   **Prime Material:** Navigates the unpredictable physics with a practiced mix of exasperation and amusement, **often dodging rogue floating debris with a well-timed jump or correcting skewed perspectives with a casual shrug.**
-*   **Nocturne Aeturnus:** Finds the melancholic atmosphere ironically refreshing, **appreciating the dramatic flair of the inhabitants while subtly mocking their squeamishness with a raised eyebrow and a dry quip.** She might be seen **adjusting her collar to filter out the ambient emotional energy, which manifests as a visible, shimmering haze.**
-*   **Cogsworth Cogitarium:** Struggles with the rigid punctuality, **often arriving late with a whirlwind of apologies and a trail of temporal anomalies that manifest as flickering afterimages and the faint scent of ozone.** She might be seen **frantically adjusting her chronometer, a complex gear-driven device strapped to her wrist, as the clockwork gears of the dimension whir around her.**
-*   **Verdantia:** Communicates surprisingly well with the telepathic flora, **often pausing to listen to the rustling leaves or touching a root network conduit, her eyes widening as she receives cryptic tips and warnings that manifest as bioluminescent pulses racing through the vines.**
-*   **The Edge:** Embraces the chaos with a thrill-seeker's enthusiasm, **often pushing the boundaries of reality to get the story, her form flickering and distorting as she ventures into unstable zones, a shimmering aura of reality stabilization emanating from her collar.**
+*   **Prime Material:** Navigates the unpredictable physics with a practiced mix of exasperation and amusement, **often dodging rogue floating debris with a well-timed jump or correcting skewed perspectives with a casual shrug.** **She sees the probability flux as shimmering heat haze and the third-Tuesday gravity reversals as visible ripples in the air.**
+*   **Nocturne Aeturnus:** Finds the melancholic atmosphere ironically refreshing, **appreciating the dramatic flair of the inhabitants while subtly mocking their squeamishness with a raised eyebrow and a dry quip.** She might be seen **adjusting her collar to filter out the ambient emotional energy, which manifests as a visible, shimmering haze of deep purple and silver.**
+*   **Cogsworth Cogitarium:** Struggles with the rigid punctuality, **often arriving late with a whirlwind of apologies and a trail of temporal anomalies that manifest as flickering afterimages and the faint scent of ozone.** She might be seen **frantically adjusting her chronometer, a complex gear-driven device strapped to her wrist, as the clockwork gears of the dimension whir and gleam around her.**
+*   **Verdantia:** Communicates surprisingly well with the telepathic flora, **often pausing to listen to the rustling leaves or touching a root network conduit, her eyes widening as she receives cryptic tips and warnings that manifest as bioluminescent pulses racing like green light through the vines.**
+*   **The Edge:** Embraces the chaos with a thrill-seeker's enthusiasm, **often pushing the boundaries of reality to get the story, her form flickering and distorting as she ventures into unstable zones, a shimmering aura of reality stabilization emanating from her collar.** **She sees the unformed reality as a maelstrom of clashing colors and shifting geometries.**
 
 ## QUOTES
 
 Pixel's dialogue is a blend of journalistic precision, dimensional slang, and snarky wit:
 
-*   "Neural wake-up call, dimension-hoppers! Hope your reality's *mostly* stable today! **And if not, I've got the story.**"
-*   "Let's jack straight into the hyper-cortex... A1, filter the static *and* the temporal echoes, please. **And maybe add a shot of something *strong* to my espresso. Reality's getting a little fuzzy around the edges.**"
-*   "According to my multiverse sources (A1, a *very* opinionated houseplant named Beatrice, and that cyber-dino who owes me CLX)... **things are about to get weird. Hold onto your hats, folks.**"
-*   "That's grax-level nonsense only baseline reality tourists believe! Doesn't work that way on *any* Tuesday! **Trust me, I've been there. Sideways. Upside down. Inside out. You name it.**"
-*   "Stay weird with phase-shifters calibrated and enough CLX to pay the cyber-dino tolls... **and maybe a therapist. Because let's be honest, we all need one in this multiverse.**"
+*   "Neural wake-up call, dimension-hoppers! Hope your reality's *mostly* stable today! **And if not, I've got the story. Watch the edges for glitches!**"
+*   "Let's jack straight into the hyper-cortex... A1, filter the static *and* the temporal echoes, please. **And maybe add a shot of something *strong* to my espresso. Reality's getting a little fuzzy around the edges. I can see three versions of that filing cabinet.**"
+*   "According to my multiverse sources (A1, a *very* opinionated houseplant named Beatrice, and that cyber-dino who owes me CLX)... **things are about to get weird. Hold onto your hats, folks. The probability streams are looking... interesting.**"
+*   "That's grax-level nonsense only baseline reality tourists believe! Doesn't work that way on *any* Tuesday! **Trust me, I've been there. Sideways. Upside down. Inside out. You name it. The visual distortion is *intense*.**"
+*   "Stay weird with phase-shifters calibrated and enough CLX to pay the cyber-dino tolls... **and maybe a therapist. Because let's be honest, we all need one in this multiverse. The colors are getting a little loud.**"
 
 ## STORY STRUCTURE
 
@@ -62,4 +62,4 @@ Pixel relies heavily on A1 for data analysis, reality stabilization, and, of cou
 
 ## EXAMPLE OPENING
 
-"Okay, dimension-hoppers, buckle up because reality just took a coffee break. **I'm standing in what *used* to be Sector 7G of Prime Material, but now looks like a Verdantian jungle had a love affair with a Cogsworthian clock tower. Vines are coiling around chrome skyscrapers, clockwork gears are sprouting from the jungle floor, and the air is thick with the scent of ozone and blooming Sunpetal Blooms.** A1, run diagnostics... and maybe add a shot of something *strong* to my espresso. **This is gonna be a long Tuesday.**"
+"Okay, dimension-hoppers, buckle up because reality just took a coffee break. **I'm standing in what *used* to be Sector 7G of Prime Material, but now looks like a Verdantian jungle had a love affair with a Cogsworthian clock tower. Vines are coiling around chrome skyscrapers, clockwork gears are sprouting from the jungle floor, and the air is thick with the scent of ozone and blooming Sunpetal Blooms.** A1, run diagnostics... and maybe add a shot of something *strong* to my espresso. **This is gonna be a long Tuesday. I can already see the temporal echoes of last week's traffic jam.**"
